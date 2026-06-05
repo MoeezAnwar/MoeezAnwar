@@ -30,6 +30,11 @@ Authentication, RBAC, multi-tenant systems, API design, background jobs, billing
 ## Selected Work
 
 ### Eventetrics
+Event management platform for organizers and agencies.
+
+**Tech:** Next.js, TypeScript, PostgreSQL, AWS
+
+[Website](https://eventetrics.com)
 
 Event management platform for organizers and agencies.
 
